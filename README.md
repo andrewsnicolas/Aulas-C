@@ -56,5 +56,5 @@ Alguns códigos podem conter diferentes abordagens para o mesmo problema, justam
 
 👨‍💻 Autor
 
-Desenvolvido por Nicolas Pacífico
+Desenvolvido por Andrews Nícolas
 Estudante de Análise e Desenvolvimento de Sistemas 🚀
